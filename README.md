@@ -1,6 +1,14 @@
 Cat's Eye Technologies' Entries for NaNoGenMo 2017
 ==================================================
 
+_See also:_ [The Swallows](https://github.com/catseye/The-Swallows#readme) (2013)
+∘ [NaNoGenLab](https://github.com/catseye/NaNoGenLab#readme) (2014)
+∘ [MARYSUE](https://github.com/catseye/MARYSUE#readme) (2015)
+∘ [2018 Entries](https://github.com/catseye/NaNoGenMo-Entries-2018#readme)
+∘ [2019 Entries](https://github.com/catseye/NaNoGenMo-Entries-2019#readme)
+
+- - - -
+
 Herein you shall find [Cat's Eye Technologies][]' entries
 for [NaNoGenMo 2017][].
 
